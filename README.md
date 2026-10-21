@@ -1,7 +1,5 @@
 # Tic Tac Toe (React)
 
-Repo Link: [https://stackblitz.com/~/github.com/ensaracar/tic-tac-toe-react](https://stackblitz.com/~/github.com/ensaracar/tic-tac-toe-react)
-
 Play the game: [https://tic-tac-toe-react-taupe-two.vercel.app/](https://tic-tac-toe-react-taupe-two.vercel.app/)
 
 React 19 + Vite.
